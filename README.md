@@ -12,6 +12,8 @@ PS: There might have been a bit of satire in it :)
 ![250305_03h09m13s_screenshot](https://github.com/user-attachments/assets/90b97901-405f-4676-a22c-40060c02b3c9)
 
 ## Installation:
+> [!IMPORTANT]
+> This config requires >= NVIM v0.11
 ```shell
 git clone https://github.com/tryprncp/nvim ~/.config/nvim
 nvim
